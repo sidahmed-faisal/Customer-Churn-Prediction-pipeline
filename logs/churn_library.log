@@ -1,0 +1,9 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - SUCCESS: DataFrame was loaded 
+root - INFO - SUCCESS: Customers age distributions File was saved
+root - INFO - SUCCESS: Categorical Columns have been added
+root - INFO - SUCCESS: Data has been splitted successfully 
+root - INFO - SUCCESS: Logistic Model was saved
+root - INFO - SUCCESS: Random Forest Model was saved
+root - INFO - SUCCESS: roc curve is saved
+root - INFO - SUCCESS: feature importances is saved
