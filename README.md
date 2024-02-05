@@ -1,6 +1,6 @@
 # Predict Customer Churn
 
-- Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
+- Project **Predict Customer Churn** using clean code principles 
 
 ## Project Description
 - This repository implements a Python package for a machine learning project focusing on predicting credit card churn. The package follows coding best practices (PEP8), adheres to software engineering principles (modular, documented, and tested), and offers flexibility for interactive or command-line execution summeraized in the following:
